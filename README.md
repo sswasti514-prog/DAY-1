@@ -25,10 +25,10 @@ My Portfolio
     <section>
         <h2>Education</h2>
                 <strong>Bachelor of Science in Computer Science(AI)</strong> (2025 - Present)<br>
-                Swami Keshwanand Institute of Technology | GPA: 6.00/10.00
+                Swami Keshwanand Institute of Technology | GPA: 7.80/10.00
             
                 <strong>High School Diploma</strong> (Graduated 2024)<br>
-                GSS School | Grade: Grade b
+                GSS School | Grade: Grade A
     </section>
     <section>
         <h2>Technical Skills</h2>
